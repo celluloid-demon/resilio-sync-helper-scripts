@@ -1,0 +1,5 @@
+﻿platform: Linux 6.6.4-200.fc39.x86_64 #1 SMP PREEMPT_DYNAMIC Sun Dec  3 18:13:11 UTC 2023 x86_64
+version: 2.7.3.1381
+[20231208 20:34:26.603] ZIP: Can't locate [version] in zip, error -100.
+[20231208 20:34:26.609] Torrent session shutdown: done waiting
+[20231208 20:34:26.609] Shutdown. Saving config sync.dat
